@@ -2,6 +2,7 @@
   "name": "react1",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://g3ei.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
@@ -12,6 +13,7 @@
     "draft-js": "^0.11.7",
     "draftjs-to-html": "^0.9.1",
     "draftjs-to-markdown": "^0.6.0",
+    "gh-pages": "^3.2.3",
     "moment": "^2.29.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -20,6 +22,7 @@
     "react-router": "^6.2.1",
     "react-router-dom": "^6.2.1",
     "react-scripts": "4.0.3",
+    "save-dev": "^0.0.1-security",
     "sweetalert": "^2.1.2",
     "web-vitals": "^1.1.2"
   },
