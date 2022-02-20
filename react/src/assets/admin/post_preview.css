@@ -1,0 +1,35 @@
+.post_preview_link a{
+   color: black;
+   text-decoration: none;
+   font-weight:   bold;
+
+
+}
+
+.post_preview_link a:hover{
+    color: rgb(255, 139, 7);
+}
+.card-header{
+    color: white;
+    background-color: #2e3138;
+
+}
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid rgba(119, 119, 119, 0.342);
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 10px;
+    text-align: end;
+  }

@@ -1,0 +1,33 @@
+
+
+ .dropdownMinebtn {
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  li.dropdownMine {
+    display: inline-block;
+  }
+  
+  .dropdownMine-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.61);
+  }
+  
+  .dropdownMine-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  .dropdownMine-content a:hover {
+    color: orange;
+    border-bottom: 3px solid  orange;
+  }
+  .dropdownMine:hover .dropdownMine-content {
+    display: block;
+  }
